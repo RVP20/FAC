@@ -1,7 +1,9 @@
-# FAC SUMMER PROJECT 2020 
+# Stock Trading using Deep Q Learning
 
-## Aim
-To build a Q-Learning agent to predict whether to buy a stock, sell a stock, or remain neutral at a given point of time, based on the trends of the market, so as to maximize total income at the end of the trading window
+#### Summer 2021 Project offered by Finance and Analytics Club, IIT Kanpur
+
+## Overview
+To build a Deep Q-Learning agent to predict whether to buy a stock, sell a stock, or remain neutral at a given point of time, based on the trends of the market, so as to maximize total income at the end of the trading window
 
 ## Assignments
 **Assignment 1**: Using 5 different ML models, predict the Adjusted Closed Stock Price of 3 firms, provided their closing prices of the previous n days\
