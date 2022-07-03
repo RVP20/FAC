@@ -2,6 +2,7 @@
 
 #### Summer 2021 Project offered by Finance and Analytics Club, IIT Kanpur
 #### Project Mentors: Vasundhara Rai, Shubh Agrawal
+#### Project Duration: May 2021 - July 2021
 
 ## Overview
 To build a Deep Q-Learning agent to predict whether to buy a stock, sell a stock, or remain neutral at a given point of time, based on the trends of the market, so as to maximize total profits at the end of the trading window.
